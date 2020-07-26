@@ -1,6 +1,6 @@
 ## Welcome to Cookie Comics
 
-<img src="https://www.volacci.com/files/imce-uploads/flying-cat-at-girl_0.jpg"></img>
+<img src="https://www.volacci.com/files/imce-uploads/flying-cat-at-girl_0.jpg">
 
 You can use the [editor on GitHub.com/coo](https://githubkiecomics/cookiecomics.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
