@@ -2,6 +2,8 @@
 
 <img src="https://www.volacci.com/files/imce-uploads/flying-cat-at-girl_0.jpg">
 
+<a href="https://cookiecomics.github.io/games.html">My Games</a>
+
 You can use the [editor on GitHub.com/coo](https://githubkiecomics/cookiecomics.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
